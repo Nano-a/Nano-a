@@ -1,4 +1,4 @@
-# Abderrahman Ajinou - Développeur Programmeur ✨
+# Abderrahman Ajinou - Développeur / Programmeur ✨
 
 Salut ! Je suis Abderrahman Ajinou, étudiant en Licence 3 de Développement Web à l’Université Paris Cité, passionné par la programmation, les algorithmes efficaces ⚡ (complexité espace-temps), et la POO. Je suis un développeur Full Stack, à l’aise aussi bien en Front-End qu’en Back-End, toujours prêt à relever de nouveaux défis techniques avec enthousiasme !
 
