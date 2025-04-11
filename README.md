@@ -1,6 +1,6 @@
-# Abderrahman Ajinou - Développeur / Programmeur ✨
+# Abderrahman Ajinou - DÉVELOPPEUR FULL STACK & APPS JAVA ✨
 
-Salut ! <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"> Je suis Abderrahman Ajinou, étudiant en Licence 3 à Université Paris Cité, passionné par la programmation et le developpement, les algorithmes efficaces ⚡ (complexité espace-temps), et la POO. Je suis un développeur Full Stack, à l’aise aussi bien en Front-End qu’en Back-End, toujours prêt à relever de nouveaux défis techniques avec enthousiasme !
+Salut ! Je suis Abderrahman Ajinou, étudiant en Licence 3 à Université Paris Cité, passionné par la programmation et le developpement, les algorithmes efficaces ⚡ (complexité espace-temps), et la POO. Je suis un développeur Full Stack, à l’aise aussi bien en Front-End qu’en Back-End, toujours prêt à relever de nouveaux défis techniques avec enthousiasme !
 
 ---
 
@@ -22,7 +22,7 @@ En tant qu’étudiant, je suis motivé à apprendre tout ce que je peux et à c
 
 ---
 
-*Hello! I’m Abderrahman Ajinou, a 3rd-year Computer Science student at Université Paris Cité, specializing in Web Development (Full Stack, Front-End, and Back-End). I’m passionate about programming, efficient algorithms ⚡ (space-time complexity), and OOP. I’ve worked on university group projects using Scrum Agile 🛠️, MVC, Gradle, and Maven, as well as personal projects on GitHub. My goal is to merge AI 🤖 with fields like cybersecurity 🔒, databases, or Big Data. Based in Paris 🗼, I speak French (native) and English (B1 level). Feel free to reach out for collaboration or opportunities!*
+*Hello!<img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"> I’m Abderrahman Ajinou, a 3rd-year Computer Science student at Université Paris Cité, specializing in Web Development (Full Stack, Front-End, and Back-End). I’m passionate about programming, efficient algorithms ⚡ (space-time complexity), and OOP. I’ve worked on university group projects using Scrum Agile 🛠️, MVC, Gradle, and Maven, as well as personal projects on GitHub. My goal is to merge AI 🤖 with fields like cybersecurity 🔒, databases, or Big Data. Based in Paris 🗼, I speak French (native) and English (B1 level). Feel free to reach out for collaboration or opportunities!*
 
 
 ## 🌐 Socials:
