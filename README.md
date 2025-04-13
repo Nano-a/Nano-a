@@ -26,7 +26,15 @@ En tant qu’étudiant, je suis motivé à apprendre tout ce que je peux et à c
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abderrahman-ajinou) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ajinou2001@gmail.com) 
+<p align="center">
+  <a href="https://www.linkedin.com/in/abderrahman-ajinou" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:ajinou2001@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
 
 <h2>💻 Tech Stack:</h2>
 <p align="center">
