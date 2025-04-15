@@ -71,6 +71,8 @@ En tant qu’étudiant, je suis motivé à apprendre tout ce que je peux et à c
   <img src="https://github-readme-stats.vercel.app/api?username=Nano-a&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nano-a&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simbala-Diabira&layout=compact&theme=" alt="GitHub Streak" />
+
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nano-a&theme=dark&hide_border=false&layout=compact" alt="Top Langs" />
 </p>
