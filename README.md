@@ -75,6 +75,7 @@ En tant qu’étudiant, je suis motivé à apprendre tout ce que je peux et à c
 
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nano-a&theme=dark&hide_border=false&layout=compact" alt="Top Langs" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Simbala-Diabira&theme=" alt="Stats" /></a>
 </p>
 
 
