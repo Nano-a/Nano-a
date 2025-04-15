@@ -1,7 +1,5 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 
-<p align="right" <img src="https://komarev.com/ghpvc/?username=Simbala-Diabira&label=Profile%20views&color=0e75b6&style=flat" alt="View" /></p>
-
 # Abderrahman Ajinou - DÉVELOPPEUR FULL STACK & APPS JAVA ✨
 
 Salut ! Je suis Abderrahman Ajinou, étudiant en Licence 3 à Université Paris Cité, passionné par la programmation et le developpement, les algorithmes efficaces ⚡ (complexité espace-temps), et la POO. Je suis un développeur Full Stack, à l’aise aussi bien en Front-End qu’en Back-End, toujours prêt à relever de nouveaux défis techniques avec enthousiasme !
@@ -86,3 +84,6 @@ En tant qu’étudiant, je suis motivé à apprendre tout ce que je peux et à c
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Nano-a&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<p align="right" <img src="https://komarev.com/ghpvc/?username=Simbala-Diabira&label=Profile%20views&color=0e75b6&style=flat" alt="View" /></p>
+
