@@ -85,5 +85,5 @@ En tant qu’étudiant, je suis motivé à apprendre tout ce que je peux et à c
 ---
 [![](https://visitcount.itsvg.in/api?id=Nano-a&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p align="right" <img src="https://komarev.com/ghpvc/?username=Simbala-Diabira&label=Profile%20views&color=0e75b6&style=flat" alt="View" /></p>
+<p><img src="https://komarev.com/ghpvc/?username=Simbala-Diabira&label=Profile%20views&color=0e75b6&style=flat" alt="View" /></p>
 
