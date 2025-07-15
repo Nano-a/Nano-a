@@ -91,37 +91,70 @@ En tant qu’étudiant, je suis motivé à apprendre tout ce que je peux et à c
 
 
 
-# Abderrahman Ajinou – Développeur Full Stack & Java
+# Abderrahman Ajinou – Développeur Full Stack & Java ☕🚀
 
-🎓 Étudiant en 3e année de Licence Informatique à Université Paris Cité  
-💡 Passionné par le développement logiciel, web, IA et cybersécurité  
-📍 Paris | 🇫🇷 Français | 🇬🇧 Anglais B1
-
----
-
-## Compétences principales
-
-- **Langages** : Python, Java, C++, JavaScript, HTML/CSS, SQL, PHP
-- **Frameworks** : JavaFX, AWT/Swing, Bootstrap, React
-- **Outils** : Git, GitHub, GitLab, Agile/Scrum, MySQL
+> Étudiant en 3e année de Licence Informatique à Université Paris Cité  
+> Passionné par le développement logiciel, web, IA, cybersécurité et l’optimisation d’algorithmes.
 
 ---
 
-## Projets phares
+## 🚀 Compétences principales
 
-- **Pacman JavaFX** : Jeu complet en Java, MVC, tests unitaires – [Voir le repo](https://github.com/Nano-a/pacman-project)
-- **CineRecommend** : Système de recommandation de films (Python, Flask, ML) – [Voir le repo](https://github.com/Nano-a/movie-recommender)
-- **Portfolio Web** : Site personnel responsive (HTML/CSS/JS) – [Voir le repo](https://github.com/Nano-a/portfolio-nano-a)
-
----
-
-## Contact
-
-[LinkedIn](https://www.linkedin.com/in/abderrahman-ajinou/) | [Mail](mailto:ajinou2001@gmail.com)
+**Langages** : Python, Java, C++, JavaScript, HTML/CSS, SQL, PHP  
+**Frameworks** : JavaFX, AWT/Swing, Bootstrap, React  
+**Outils** : Git, GitHub, GitLab, Agile/Scrum, MySQL
 
 ---
 
-<!-- (Optionnel) Stats GitHub -->
+## 🏆 Projets phares
+
+| Projet | Description | Techs | Lien |
+|--------|-------------|-------|------|
+| **Pacman JavaFX** | Jeu complet en Java, MVC, tests unitaires | Java, JavaFX, JUnit | [Repo](https://github.com/Nano-a/pacman-project) |
+| **CineRecommend** | Système de recommandation de films (ML) | Python, Flask, ML | [Repo](https://github.com/Nano-a/movie-recommender) |
+| **Portfolio Web** | Site personnel responsive | HTML, CSS, JS | [Repo](https://github.com/Nano-a/portfolio-nano-a) |
+
+---
+
+## 💡 À propos de moi
+
+- 👨‍💻 **Profil** : Full Stack, passionné par la POO, l’IA, la cybersécurité et l’optimisation.
+- 🛠️ **Méthodologies** : Scrum Agile, MVC, CI/CD.
+- 🌱 **Objectif** : Fusionner IA, cybersécurité et big data pour créer des solutions innovantes.
+- 📍 **Localisation** : Paris, France
+- 🌐 **Langues** : Français (natif), Anglais (B1)
+
+---
+
+<details>
+<summary>📊 Statistiques GitHub (clique pour voir)</summary>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nano-a&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nano-a&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nano-a&theme=dark&hide_border=false&layout=compact" alt="Top Langs" />
 </p>
+</details>
+
+---
+
+## 📫 Me contacter
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abderrahman-ajinou/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ajinou2001@gmail.com)
+
+---
+
+<details>
+<summary>📝 En savoir plus (philosophie, citations, etc.)</summary>
+
+> “L’informatique n’est pas une science, c’est un art de la résolution de problèmes.”  
+> “Toujours apprendre, toujours innover.”
+
+- J’aime relever des défis techniques et créer des solutions élégantes.
+- Je crois en la force du collectif et de l’apprentissage continu.
+- Mon portfolio complet : [Portfolio-A-AJINOU](https://github.com/Nano-a/Portfolio-A-AJINOU)
+
+</details>
