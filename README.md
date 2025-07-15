@@ -3,6 +3,21 @@
 
 # Abderrahman Ajinou – Développeur Full Stack & Apps Java ✨
 
+<!--- Header avec liens principaux -->
+<p align="center">
+  <a href="https://github.com/Nano-a/Portfolio-A-AJINOU">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/abderrahman-ajinou/">LinkedIn</a> •
+  <a href="mailto:ajinou2001@gmail.com">Email</a> •
+  <a href="https://github.com/Nano-a">GitHub</a>
+</p>
+
+Étudiant en 3e année de Licence Informatique à l’Université Paris Cité, passionné par le développement logiciel, l’intelligence artificielle et la cybersécurité.  
+Je conçois des solutions innovantes, performantes et robustes, en combinant rigueur académique et créativité technique.  
+Ouvert aux opportunités de stage, d’alternance ou de collaboration à Paris ou en remote.
+
+# Abderrahman Ajinou – Développeur Full Stack & Apps Java ✨
+
+...
 
 Étudiant en 3e année de Licence Informatique à l’Université Paris Cité, passionné par le développement logiciel, l’intelligence artificielle et la cybersécurité.  
 Je conçois des solutions innovantes, performantes et robustes, en combinant rigueur académique et créativité technique.  
