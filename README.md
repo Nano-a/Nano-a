@@ -139,8 +139,6 @@ Ouvert aux opportunités de stage, d’alternance ou de collaboration à Paris o
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nano-a&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nano-a&theme=dark&hide_border=false" alt="GitHub Streak" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nano-a&theme=dark&hide_border=false&layout=compact" alt="Top Langs" />
