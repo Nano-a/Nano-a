@@ -91,10 +91,27 @@ En tant qu’étudiant, je suis motivé à apprendre tout ce que je peux et à c
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Abderrahman Ajinou – Développeur Full Stack & Java ☕🚀
 
 > Étudiant en 3e année de Licence Informatique à Université Paris Cité  
-> Passionné par le développement logiciel, web, IA, cybersécurité et l’optimisation d’algorithmes.
+> Passionné par le développement logiciel, l’IA, la cybersécurité et l’optimisation d’algorithmes.
 
 ---
 
@@ -117,20 +134,17 @@ En tant qu’étudiant, je suis motivé à apprendre tout ce que je peux et à c
 
 ## 🏆 Projets phares
 
-| Catégorie      | Projet & Lien                                                                 | Description courte                                                                 | Techs principales                |
-|----------------|------------------------------------------------------------------------------|------------------------------------------------------------------------------------|----------------------------------|
-| **Universitaire** | [Pacman JavaFX](https://github.com/Nano-a/pacman-project)                  | Jeu complet en Java, MVC, tests unitaires                                          | Java ☕, JavaFX, JUnit           |
-|                | [Tower Defense](https://github.com/Nano-a/TowerDefense)                      | Jeu de stratégie en binôme, interface graphique                                    | Java ☕, AWT/Swing               |
-|                | [Khet Chess Laser](https://github.com/Nano-a/Khet-Chess-Laser)               | Jeu de stratégie laser, CI/CD, tests                                               | Java ☕, AWT/Swing, GitLab       |
-| **Personnel**  | [Portfolio Web](https://github.com/Nano-a/portfolio-nano-a)                  | Site personnel responsive                                                          | HTML/CSS 🎨, JS 🌐, Bootstrap    |
-|                | [Collab CVML Exercise](https://github.com/Nano-a/cvml-exercise)              | Contribution open source, pipeline géospatial                                      | Python 🐍, C++, ML               |
-|                | [WaterMarkIt](https://github.com/Nano-a/WaterMarkIt)                         | Contribution open source, watermarking                                             | Python 🐍, ML                    |
-| **IA/Certif**  | [CineRecommend](https://github.com/Nano-a/movie-recommender)                 | Système de recommandation de films (ML)                                            | Python 🐍, Flask, ML             |
-|                | [Medicinal Plant Classifier](https://github.com/Nano-a/medicinal-plant-classifier) | Classifieur de plantes médicinales (RandomForest)                                  | Python 🐍, Flask, ML             |
-|                | [Traffic Flow Predictor](https://github.com/Nano-a/traffic-flow-predictor)   | Prédicteur de trafic routier (RandomForest)                                        | Python 🐍, Flask, ML             |
-|                | [Energy Demand Prediction](https://github.com/Nano-a/energy-demand-prediction) | Prédiction de consommation électrique (ML/DL)                                      | Python 🐍, Streamlit, ML, DL     |
-|                | [Certif Python PCAP](./images/projects/python-cert.png)                      | Certification internationale Python Institute                                      | Python 🐍                        |
-|                | [Certif Microsoft MTA](./images/projects/microsoft-cert.png)                 | Certification Microsoft HTML/CSS, responsive design                                | HTML/CSS 🎨                      |
+| Catégorie         | Projet & Lien                                                                 | Description courte                                              | Techs principales                |
+|-------------------|------------------------------------------------------------------------------|-----------------------------------------------------------------|----------------------------------|
+| **IA**           | [CineRecommend](https://github.com/Nano-a/movie-recommender)                  | Système de recommandation de films (ML)                        | Python 🐍, Flask, ML             |
+|                   | [Medicinal Plant Classifier](https://github.com/Nano-a/medicinal-plant-classifier) | Classifieur de plantes médicinales (RandomForest)              | Python 🐍, Flask, ML             |
+|                   | [Traffic Flow Predictor](https://github.com/Nano-a/traffic-flow-predictor)   | Prédicteur de trafic routier (RandomForest)                    | Python 🐍, Flask, ML             |
+|                   | [Energy Demand Prediction](https://github.com/Nano-a/energy-demand-prediction) | Prédiction de consommation électrique (ML/DL)                  | Python 🐍, Streamlit, ML, DL     |
+| **Développement** | [Pacman JavaFX](https://github.com/Nano-a/pacman-project)                    | Jeu complet en Java, MVC, tests unitaires                      | Java ☕, JavaFX, JUnit           |
+|                   | [Tower Defense](https://github.com/Nano-a/TowerDefense)                      | Jeu de stratégie en binôme, interface graphique                | Java ☕, AWT/Swing               |
+|                   | [Khet Chess Laser](https://github.com/Nano-a/Khet-Chess-Laser)               | Jeu de stratégie laser, CI/CD, tests                           | Java ☕, AWT/Swing, GitLab       |
+|                   | [Portfolio Web](https://github.com/Nano-a/portfolio-nano-a)                  | Site personnel responsive                                      | HTML/CSS 🎨, JS 🌐, Bootstrap    |
+| **Cybersécurité** | À venir                                                                      | Projets en cybersécurité en cours de développement             | 🔒                              |
 
 ---
 
