@@ -26,7 +26,7 @@ Ouvert aux opportunités de stage, d’alternance ou de collaboration à Paris o
 - 📍 **Localisation** : Paris, France
 - 🌐 **Langues** : Français (natif), Anglais (B1)
 
-
+---
 
 ## 💻 Tech Stack
 <p align="center">
