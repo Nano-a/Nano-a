@@ -18,13 +18,13 @@ Ouvert aux opportunités de stage, d’alternance ou de collaboration à Paris o
 
 
 
-## 💡 À propos de moi
+<b>💡 À propos de moi</b><br>
 
 - 👨‍💻 **Profil** : Full Stack, passionné par la POO, l’IA, la cybersécurité et l’optimisation.
 - 🛠️ **Méthodologies** : Scrum Agile, MVC, CI/CD.
 - 🌱 **Objectif** : Fusionner IA, cybersécurité et big data pour créer des solutions innovantes.
 - 📍 **Localisation** : Paris, France
-- 🌐 **Langues** : Français (natif), Anglais (B1)
+- 🌐 **Langues** : Français (natif), Arabe (natif), Anglais (B1)
 
 ---
 
