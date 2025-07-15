@@ -84,3 +84,44 @@ En tant qu’étudiant, je suis motivé à apprendre tout ce que je peux et à c
 ---
 [![](https://visitcount.itsvg.in/api?id=Nano-a&icon=0&color=0)](https://visitcount.itsvg.in)
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Nano-a&label=Profile%20views&color=0e75b6&style=flat" alt="View" /></p>
+
+
+
+
+
+
+
+# Abderrahman Ajinou – Développeur Full Stack & Java
+
+🎓 Étudiant en 3e année de Licence Informatique à Université Paris Cité  
+💡 Passionné par le développement logiciel, web, IA et cybersécurité  
+📍 Paris | 🇫🇷 Français | 🇬🇧 Anglais B1
+
+---
+
+## Compétences principales
+
+- **Langages** : Python, Java, C++, JavaScript, HTML/CSS, SQL, PHP
+- **Frameworks** : JavaFX, AWT/Swing, Bootstrap, React
+- **Outils** : Git, GitHub, GitLab, Agile/Scrum, MySQL
+
+---
+
+## Projets phares
+
+- **Pacman JavaFX** : Jeu complet en Java, MVC, tests unitaires – [Voir le repo](https://github.com/Nano-a/pacman-project)
+- **CineRecommend** : Système de recommandation de films (Python, Flask, ML) – [Voir le repo](https://github.com/Nano-a/movie-recommender)
+- **Portfolio Web** : Site personnel responsive (HTML/CSS/JS) – [Voir le repo](https://github.com/Nano-a/portfolio-nano-a)
+
+---
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/abderrahman-ajinou/) | [Mail](mailto:ajinou2001@gmail.com)
+
+---
+
+<!-- (Optionnel) Stats GitHub -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nano-a&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</p>
