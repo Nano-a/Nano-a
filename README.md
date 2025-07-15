@@ -100,19 +100,37 @@ En tant qu’étudiant, je suis motivé à apprendre tout ce que je peux et à c
 
 ## 🚀 Compétences principales
 
-**Langages** : Python, Java, C++, JavaScript, HTML/CSS, SQL, PHP  
-**Frameworks** : JavaFX, AWT/Swing, Bootstrap, React  
-**Outils** : Git, GitHub, GitLab, Agile/Scrum, MySQL
+- **Python 🐍**
+- **Java ☕**
+- **C++ ⚙️**
+- **JavaScript 🌐**
+- **C 🖥️**
+- **HTML/CSS 🎨**
+- **PHP 💾**
+- **SQL 📊**
+- **PHPMyAdmin 🗄️**
+- **OCaml 🐫**
+
+**Frameworks & Outils** : JavaFX, AWT/Swing, Bootstrap, React, Git, GitHub, GitLab, Agile/Scrum, MySQL
 
 ---
 
 ## 🏆 Projets phares
 
-| Projet | Description | Techs | Lien |
-|--------|-------------|-------|------|
-| **Pacman JavaFX** | Jeu complet en Java, MVC, tests unitaires | Java, JavaFX, JUnit | [Repo](https://github.com/Nano-a/pacman-project) |
-| **CineRecommend** | Système de recommandation de films (ML) | Python, Flask, ML | [Repo](https://github.com/Nano-a/movie-recommender) |
-| **Portfolio Web** | Site personnel responsive | HTML, CSS, JS | [Repo](https://github.com/Nano-a/portfolio-nano-a) |
+| Catégorie      | Projet & Lien                                                                 | Description courte                                                                 | Techs principales                |
+|----------------|------------------------------------------------------------------------------|------------------------------------------------------------------------------------|----------------------------------|
+| **Universitaire** | [Pacman JavaFX](https://github.com/Nano-a/pacman-project)                  | Jeu complet en Java, MVC, tests unitaires                                          | Java ☕, JavaFX, JUnit           |
+|                | [Tower Defense](https://github.com/Nano-a/TowerDefense)                      | Jeu de stratégie en binôme, interface graphique                                    | Java ☕, AWT/Swing               |
+|                | [Khet Chess Laser](https://github.com/Nano-a/Khet-Chess-Laser)               | Jeu de stratégie laser, CI/CD, tests                                               | Java ☕, AWT/Swing, GitLab       |
+| **Personnel**  | [Portfolio Web](https://github.com/Nano-a/portfolio-nano-a)                  | Site personnel responsive                                                          | HTML/CSS 🎨, JS 🌐, Bootstrap    |
+|                | [Collab CVML Exercise](https://github.com/Nano-a/cvml-exercise)              | Contribution open source, pipeline géospatial                                      | Python 🐍, C++, ML               |
+|                | [WaterMarkIt](https://github.com/Nano-a/WaterMarkIt)                         | Contribution open source, watermarking                                             | Python 🐍, ML                    |
+| **IA/Certif**  | [CineRecommend](https://github.com/Nano-a/movie-recommender)                 | Système de recommandation de films (ML)                                            | Python 🐍, Flask, ML             |
+|                | [Medicinal Plant Classifier](https://github.com/Nano-a/medicinal-plant-classifier) | Classifieur de plantes médicinales (RandomForest)                                  | Python 🐍, Flask, ML             |
+|                | [Traffic Flow Predictor](https://github.com/Nano-a/traffic-flow-predictor)   | Prédicteur de trafic routier (RandomForest)                                        | Python 🐍, Flask, ML             |
+|                | [Energy Demand Prediction](https://github.com/Nano-a/energy-demand-prediction) | Prédiction de consommation électrique (ML/DL)                                      | Python 🐍, Streamlit, ML, DL     |
+|                | [Certif Python PCAP](./images/projects/python-cert.png)                      | Certification internationale Python Institute                                      | Python 🐍                        |
+|                | [Certif Microsoft MTA](./images/projects/microsoft-cert.png)                 | Certification Microsoft HTML/CSS, responsive design                                | HTML/CSS 🎨                      |
 
 ---
 
@@ -150,6 +168,14 @@ En tant qu’étudiant, je suis motivé à apprendre tout ce que je peux et à c
 <details>
 <summary>📝 En savoir plus (philosophie, citations, etc.)</summary>
 
+> “L’informatique n’est pas une science, c’est un art de la résolution de problèmes.”  
+> “Toujours apprendre, toujours innover.”
+
+- J’aime relever des défis techniques et créer des solutions élégantes.
+- Je crois en la force du collectif et de l’apprentissage continu.
+- Mon portfolio complet : [Portfolio-A-AJINOU](https://github.com/Nano-a/Portfolio-A-AJINOU)
+
+</details>
 > “L’informatique n’est pas une science, c’est un art de la résolution de problèmes.”  
 > “Toujours apprendre, toujours innover.”
 
