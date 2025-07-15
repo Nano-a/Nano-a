@@ -5,7 +5,7 @@
 
 <!--- Header avec liens principaux -->
 <p align="center">
-  <a href="https://github.com/Nano-a/Portfolio-A-AJINOU">Portfolio</a> •
+  <a href="https://nano-a.github.io/Portfolio-A-AJINOU/">Portfolio</a> •
   <a href="https://www.linkedin.com/in/abderrahman-ajinou/">LinkedIn</a> •
   <a href="mailto:ajinou2001@gmail.com">Email</a> •
   <a href="https://github.com/Nano-a">GitHub</a>
