@@ -3,7 +3,6 @@
 
 # Abderrahman Ajinou – Développeur Full Stack & Apps Java ✨
 
-<!--- Header avec liens principaux -->
 <p align="center">
   <a href="https://nano-a.github.io/Portfolio-A-AJINOU/">Portfolio</a> •
   <a href="https://www.linkedin.com/in/abderrahman-ajinou/">LinkedIn</a> •
@@ -11,13 +10,7 @@
   <a href="https://github.com/Nano-a">GitHub</a>
 </p>
 
-Étudiant en 3e année de Licence Informatique à l’Université Paris Cité, passionné par le développement logiciel, l’intelligence artificielle et la cybersécurité.  
-Je conçois des solutions innovantes, performantes et robustes, en combinant rigueur académique et créativité technique.  
-Ouvert aux opportunités de stage, d’alternance ou de collaboration à Paris ou en remote.
-
-# Abderrahman Ajinou – Développeur Full Stack & Apps Java ✨
-
-...
+<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 
 Étudiant en 3e année de Licence Informatique à l’Université Paris Cité, passionné par le développement logiciel, l’intelligence artificielle et la cybersécurité.  
 Je conçois des solutions innovantes, performantes et robustes, en combinant rigueur académique et créativité technique.  
@@ -154,20 +147,5 @@ Ouvert aux opportunités de stage, d’alternance ou de collaboration à Paris o
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Nano-a&theme=" alt="Stats" /></a>  
 </p>
 
-
-
-## 🌐 Socials
-<p align="center">
-  <a href="https://www.linkedin.com/in/abderrahman-ajinou" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:ajinou2001@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
-
-
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-[![](https://visitcount.itsvg.in/api?id=Nano-a&icon=0&color=0)](https://visitcount.itsvg.in)
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Nano-a&label=Profile%20views&color=0e75b6&style=flat" alt="View" /></p>
