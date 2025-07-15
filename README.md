@@ -134,13 +134,9 @@ Ouvert aux opportunités de stage, d’alternance ou de collaboration à Paris o
 
 ---
 
-
----
-
 # 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nano-a&theme=dark&hide_border=false" alt="GitHub Streak" />
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nano-a&theme=dark&hide_border=false&layout=compact" alt="Top Langs" />
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Nano-a&theme=" alt="Stats" /></a>  
 </p>
