@@ -83,7 +83,7 @@ Ouvert aux opportunités de stage, d’alternance ou de collaboration à Paris o
     <th>Techs principales</th>
   </tr>
   <tr>
-    <td rowspan="4"><strong>IA</strong></td>
+    <td rowspan="4"><strong><a href="https://github.com/Nano-a/IA">IA</a></strong></td>
     <td><a href="https://github.com/Nano-a/movie-recommender">CineRecommend</a></td>
     <td>Système de recommandation de films (ML)</td>
     <td>Python 🐍, Flask, ML</td>
